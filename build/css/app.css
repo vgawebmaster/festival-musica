@@ -463,7 +463,7 @@ h1 {
   position: relative;
   max-height: 70rem;
   min-height: 50rem;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 .video .overlay {
   position: absolute;
